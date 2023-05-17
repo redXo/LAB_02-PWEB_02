@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(to left, #b76aff, #ff4ee7);
+}
+
+div#prt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+div#prt div#prt2 {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: 85px;
+    color: rgb(44, 11, 114);
+
+    margin-top: 210px;
+    height: 300px;
+    width: 400px;
+    background-color: rgba(255, 255, 255, 0.721);
+
+    border: 7px solid rgb(44, 11, 114);
+    border-radius: 25px;
+}
