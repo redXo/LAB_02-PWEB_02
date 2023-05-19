@@ -1,0 +1,33 @@
+body {
+    background-image: url('https://blog.uber-cdn.com/cdn-cgi/image/width=2160,quality=80,onerror=redirect,format=auto/wp-content/uploads/2019/02/5-lugares-hist%C3%B3ricos-de-Arequipa-que-te-mostrar%C3%A1n-su-asombroso-pasado.png');
+    background-size: 2000px;
+    background-position: center;
+}
+
+div#prt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+div#prt div#prt2 {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: 85px;
+    color: black;
+
+    margin-top: 210px;
+    height: 300px;
+    width: 900px;
+    background-color: rgba(255, 255, 255, 0.633);
+
+    border: 7px solid black;
+    border-radius: 25px;
+}
+
+a#cr {
+    color: red;
+}

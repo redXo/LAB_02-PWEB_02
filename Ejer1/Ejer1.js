@@ -7,7 +7,7 @@ function receiveDay() {
 
     switch(day){
         case 0:
-            return "Domingo.";
+            return "Domingo";
         
         case 1:
             return "Lunes.";
@@ -16,7 +16,7 @@ function receiveDay() {
             return "Martes.";
                 
         case 3:
-            return "Miercoles.";
+            return "Miércoles.";
 
         case 4:
             return "Jueves.";
