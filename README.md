@@ -112,11 +112,20 @@
 
 		 - Ejecución:
 <img src="https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/EjerProp.png">
-		 
-	 - <h4>Ejecución</h4>
 
 
    <h2>II. CUESTIONARIO</h2>
    
+
+ - Pruebe este código de arrayGenerator() en la página  [https://jslint.com/](https://jslint.com/)
+-   Revisar esta discusión en stackoverflow -  [https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript](https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript)
+	- Después de introducir el método ***arrayGenerator*()** jslint me votó los siguientes warnings:
+<img src = "https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/Warnings(1).png"></img>
+    -   **¿Cómo se pueden resolver los warnings?**
+	    - Después de consultar en la discusión de StackOverflow (https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript) pude dar la siguiente solución, la cual se encuentra sin Warnings:
+	    <img src = "https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/OutOfWarnings.png"></img>
+    -   **¿Se puede modificar la solución usando map? ¿Cómo?**
+	    - Si se puede, en mi caso fue de la siguiente manera:
+	    <img src = "https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/OutOfWarnings(2).png"></img>
+   	    - Cree un nuevo array(*newA*) que almacena los aleatorios, esto usando el método ***.map*** y este conserva la misma longitud que el primer array(*a*). Finalmente este va en el return.
    <h2>III. CONCLUSIONES</h2>
-    
