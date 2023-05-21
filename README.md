@@ -54,7 +54,7 @@
 	 - <h4>Código:</h4>
 		 - https://github.com/redXo/Lab_02-PWEB02/blob/main/EjerciciosResueltos/Ejer1/Ejer1.js
 	 - <h4>Ejecución:</h4>
-	 <img src="https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/Ejer1.png"></td>
+	 <img src="https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/Ejer1.png">
     
  - <h3>Ejercicio 02: </h3>Escriba una página web que reciba un
     texto y al presionar un botón muestre el 	mismo texto invertido en
@@ -64,7 +64,7 @@
 	 - <h4>Código:</h4>
 		 - https://github.com/redXo/Lab_02-PWEB02/blob/main/EjerciciosResueltos/Ejer2/Ejer2.js
 	 - <h4>Ejecución:</h4>
-
+<img src="https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/Ejer2.png">
     
  - <h3>Ejercicio 03: </h3>Escribir una página que muestre cuántos
     días faltan para el día de Arequipa! 
@@ -72,6 +72,7 @@
 	 - <h4>Código:</h4>
 		 - https://github.com/redXo/Lab_02-PWEB02/blob/main/EjerciciosResueltos/Ejer3/Ejer3.js
 	 - <h4>Ejecución:</h4>
+<img src="https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/Ejer3.png">
 
  - <h3>Ejercicio 04: </h3>Escribir un página que reciba el URL de
     la sesión de google meet de hoy y devuelva el código de la sesión
@@ -80,7 +81,7 @@
 	 - <h4>Código:</h4>
 		 - https://github.com/redXo/Lab_02-PWEB02/blob/main/EjerciciosResueltos/Ejer4/Ejer4.js
 	 - <h4>Ejecución:</h4>
-
+<img src="https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/Ejer4.png">
     
  - <h3>a). Ejercicio 05: </h3>Escribir una página que permita calcular
     las suma de todos los valores de una tabla de valores dinámica. La
@@ -92,12 +93,13 @@
 	 - <h4>Código:</h4>
 		 - https://github.com/redXo/Lab_02-PWEB02/blob/main/EjerciciosResueltos/Ejer5/Ejer5.js
 	 - <h4>Ejecución:</h4>
-
+<img src="https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/Ejer5.png">
     
  - <h3>Ejercicio 06: </h3>Utilice la herramienta flipgrid -
     [https://info.flipgrid.com/] envie un video en el tema "Presentacion
     y ejemplo deJavaScript" ponga aquí los enlaces de sus envíos.
     
+    **Link del video de FlipGrid:**  https://flip.com/s/LUoGRjU2hroy
  - <h3>Ejercicios Propuestos:</h3>
  
 	 - *arrayGenerator*();
@@ -109,7 +111,7 @@
 		 - Código: https://github.com/redXo/Lab_02-PWEB02/blob/main/EjerciciosPropuestos/Ejer2.js
 
 		 - Ejecución:
-
+<img src="https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/EjerProp.png">
 		 
 	 - <h4>Ejecución</h4>
 
