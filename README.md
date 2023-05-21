@@ -48,37 +48,73 @@
    <h1>SOLUCION Y RESULTADOS</h1>
    <h2>I. SOLUCION DE EJERCICIOS/PROBLEMAS</h2>
 
- 1. <h3>Ejercicio 01: </h3>Escriba una función que reciba el número
+ - <h3>Ejercicio 01: </h3>Escriba una función que reciba el número
     de día de la fecha actual new Date().
     
+	 - <h4>Código:</h4>
+		 - https://github.com/redXo/Lab_02-PWEB02/blob/main/EjerciciosResueltos/Ejer1/Ejer1.js
+	 - <h4>Ejecución:</h4>
+	 <img src="https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/Ejer1.png"></td>
     
- 2. <h3>Ejercicio 02: </h3>Escriba una página web que reciba un
+ - <h3>Ejercicio 02: </h3>Escriba una página web que reciba un
     texto y al presionar un botón muestre el 	mismo texto invertido en
     otra sección (div). Por ejemplo si se escribe “Hola”, se mostraría
     como “aloH”.
     
+	 - <h4>Código:</h4>
+		 - https://github.com/redXo/Lab_02-PWEB02/blob/main/EjerciciosResueltos/Ejer2/Ejer2.js
+	 - <h4>Ejecución:</h4>
+
     
- 3. <h3>Ejercicio 03: </h3>Escribir una página que muestre cuántos
+ - <h3>Ejercicio 03: </h3>Escribir una página que muestre cuántos
     días faltan para el día de Arequipa! 
     
-    
- 4. <h3>Ejercicio 04: </h3>Escribir un página que reciba el URL de
+	 - <h4>Código:</h4>
+		 - https://github.com/redXo/Lab_02-PWEB02/blob/main/EjerciciosResueltos/Ejer3/Ejer3.js
+	 - <h4>Ejecución:</h4>
+
+ - <h3>Ejercicio 04: </h3>Escribir un página que reciba el URL de
     la sesión de google meet de hoy y devuelva el código de la sesión
     sin guiones separadores.
     
+	 - <h4>Código:</h4>
+		 - https://github.com/redXo/Lab_02-PWEB02/blob/main/EjerciciosResueltos/Ejer4/Ejer4.js
+	 - <h4>Ejecución:</h4>
+
     
- 5. <h3>a). Ejercicio 05: </h3>Escribir una página que permita calcular
+ - <h3>a). Ejercicio 05: </h3>Escribir una página que permita calcular
     las suma de todos los valores de una tabla de valores dinámica. La
     idea es crear una página web con un formulario que te permita decir
     cuantos valores tendrá la tabla, luego, al enviar el formulario la
     tabla se debe crear dinámicamente, junto con otro botón de envió
     para calcular la suma.
     
+	 - <h4>Código:</h4>
+		 - https://github.com/redXo/Lab_02-PWEB02/blob/main/EjerciciosResueltos/Ejer5/Ejer5.js
+	 - <h4>Ejecución:</h4>
+
     
- 6. <h3>Ejercicio 06: </h3>Utilice la herramienta flipgrid -
+ - <h3>Ejercicio 06: </h3>Utilice la herramienta flipgrid -
     [https://info.flipgrid.com/] envie un video en el tema "Presentacion
     y ejemplo deJavaScript" ponga aquí los enlaces de sus envíos.
+    
+ - <h3>Ejercicios Propuestos:</h3>
+ 
+	 - *arrayGenerator*();
+		 - Código: https://github.com/redXo/Lab_02-PWEB02/blob/main/EjerciciosPropuestos/Ejer1.js
+		 
+		 - Ejecución:
+		 
+	 - *voutesCounting*();
+		 - Código: https://github.com/redXo/Lab_02-PWEB02/blob/main/EjerciciosPropuestos/Ejer2.js
+
+		 - Ejecución:
+
+		 
+	 - <h4>Ejecución</h4>
+
 
    <h2>II. CUESTIONARIO</h2>
    
    <h2>III. CONCLUSIONES</h2>
+    
