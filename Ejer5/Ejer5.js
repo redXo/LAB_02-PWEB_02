@@ -8,15 +8,15 @@ let result = document.getElementById("result");
 
 let totalIpts = 0;
 
-function create() {
-
-    ipt.readOnly = true;   
+function create() { 
 
     if(ipt.value<=0) {
         alert("Porfavor ingrese un numero mayor a 0.");
     }
     else if(!isNaN(parseInt(ipt.value)) === true) {
-    
+        
+        ipt.readOnly = true;  
+
         for(let i = 0; i<ipt.value; i++) {
             var input = document.createElement("input");
                 input.placeholder="(" + (i+1) + ")" + " only numbers ...";
