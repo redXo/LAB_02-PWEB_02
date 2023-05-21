@@ -30,7 +30,7 @@
    <td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td>III</td>
    </tr>
    <tr>
-   <td>FECHA Presentacion:</td><td>21-May-2023</td><td>Hora de Presentacion:</td><td colspan="3">12:00 pm</td>
+   <td>FECHA Presentacion:</td><td>21-May-2023</td><td>Hora de Presentacion:</td><td colspan="3">7:00 pm</td>
    </tr>
    <tr><td colspan="3">Integrantes:
    <ul dir="auto">
@@ -105,12 +105,12 @@
 	 - *arrayGenerator*();
 		 - Código: https://github.com/redXo/Lab_02-PWEB02/blob/main/EjerciciosPropuestos/Ejer1.js
 		 
-		 - Ejecución:
+
 		 
 	 - *voutesCounting*();
 		 - Código: https://github.com/redXo/Lab_02-PWEB02/blob/main/EjerciciosPropuestos/Ejer2.js
 
-		 - Ejecución:
+		 - Ejecución:<br>
 <img src="https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/EjerProp.png">
 
 
@@ -120,12 +120,16 @@
  - Pruebe este código de arrayGenerator() en la página  [https://jslint.com/](https://jslint.com/)
 -   Revisar esta discusión en stackoverflow -  [https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript](https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript)
 	- Después de introducir el método ***arrayGenerator*()** jslint me votó los siguientes warnings:
-<img src = "https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/Warnings(1).png"></img>
-    -   **¿Cómo se pueden resolver los warnings?**
-	    - Después de consultar en la discusión de StackOverflow (https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript) pude dar la siguiente solución, la cual se encuentra sin Warnings:
-	    <img src = "https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/OutOfWarnings.png"></img>
+
+<img src = "https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/Warnings(1).png"></img><br>
+    - **¿Cómo se pueden resolver los warnings?**
+	    - Después de consultar en la discusión de StackOverflow (https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript) pude dar la siguiente solución, la cual se encuentra sin Warnings:<br>
+	    <img src = "https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/OutOfWarnings.png"></img><br>
     -   **¿Se puede modificar la solución usando map? ¿Cómo?**
-	    - Si se puede, en mi caso fue de la siguiente manera:
-	    <img src = "https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/OutOfWarnings(2).png"></img>
+	    - Si se puede, en mi caso fue de la siguiente manera:<br>
+	    <img src = "https://github.com/redXo/Lab_02-PWEB02/blob/main/IMGs/OutOfWarnings(2).png"></img><br>
    	    - Cree un nuevo array(*newA*) que almacena los aleatorios, esto usando el método ***.map*** y este conserva la misma longitud que el primer array(*a*). Finalmente este va en el return.
    <h2>III. CONCLUSIONES</h2>
+ Finalmente, puedo concluir que JavaScript es un lenguaje de programación con una sintaxis sencilla, altamente dinámico y muy versátil. Estas características hacen que JavaScript sea ampliamente utilizado tanto en el desarrollo web como en otros ámbitos de la programación.
+    
+Además JSlint es una herramienta que permite verificar y mejorar la calidad del código JavaScript. Aunque puede ser estricto y generar una cantidad considerable de advertencias y errores, su objetivo principal es ayudar a los desarrolladores a seguir las mejores prácticas y mantener un código limpio y legible.
