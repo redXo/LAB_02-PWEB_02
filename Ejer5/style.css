@@ -1,0 +1,122 @@
+body {
+    background: linear-gradient(to left, #b76aff, #ff4ee7);
+}
+
+div#prt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+div#prt div#prt2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    font-size: 25px;
+    color: rgb(44, 11, 114);
+
+    margin-top: 210px;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    overflow: auto; 
+
+    background-color: rgba(255, 255, 255, 0.721);
+
+    border: 7px solid rgb(44, 11, 114);
+    border-radius: 25px;
+}
+
+input#ipt {
+    margin-top: 20px;
+    width: 300px;
+    height: 30px;
+
+    border: 2px rgb(44, 11, 114) solid; 
+    border-radius: 5px;
+}
+
+#prt3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+
+    width: 200px
+}
+
+#prt4 {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+div#prt div#prt2 div#prt3 button {
+    background-color: white;
+    width: 95px;
+    height: 35px;
+    border: 2px rgb(44, 11, 114) solid; 
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 12px;
+    margin-right: 20px; 
+    margin-left: 20px; 
+    transition: background-color 0.3s ease-in-out;
+    transition: border-color 0.3s ease-in-out;
+    transition: color 0.6s ease-in-out;
+}
+
+div#prt div#prt2 div#prt3 button#btn1:hover {
+    cursor: pointer;
+    background-color: #56ff47;
+    border-color: #56ff47;
+    color: white;
+}
+
+div#prt div#prt2 div#prt3 button#btn2:hover {
+    cursor: pointer;
+    background-color: #ff3434;
+    border-color: #ff3434;
+    color: white;
+}
+
+div#prt div#prt2 div#prt4 button.sumar {
+    margin-top: 15px;
+    background-color: white;
+    width: 95px;
+    height: 35px;
+    border: 2px rgb(44, 11, 114) solid; 
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 12px;
+    margin-right: 20px; 
+    margin-left: 20px; 
+    transition: background-color 0.3s ease-in;
+    transition: border-color 0.3s ease;
+    transition: color 0.6s ease;
+}
+
+div#prt div#prt2 div#prt4 button.sumar:hover {
+    cursor: pointer;
+    background-color: #ffec1d;
+    border-color: #ffec1d;
+    color: white;
+}
+
+div#prt div#prt2 div#prt4 input.inputs {
+    margin-top: 5px;
+    border: 2px rgb(44, 11, 114) solid; 
+    border-radius: 5px;
+}
+
+div#result {
+    height: 0px auto;
+    width: 0px auto;
+    padding: 5px;
+}
